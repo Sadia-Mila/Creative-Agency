@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    /* container Part */
+    --spacing-mycontainer: 1170px; 
+    /* container Part */
+    /* Font Family start*/
+    --font-inter: "Inter", "sans-serif"; 
+    /* Font Family End*/
+    /* main color start */
+    --color-primary: #5956E8;
+    --color-secondary: #181818;
+    /* main color End */
+   }
